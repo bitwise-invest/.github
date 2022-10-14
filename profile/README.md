@@ -1,4 +1,4 @@
-<img src="../bitwise.jpg" alt="Bitwise Logo" width="200"/>
+<img src="https://github.com/bitwise-invest/.github/blob/main/bitwise.jpg" alt="Bitwise Logo" width="200"/>
 
 
 Hi! We're Bitwise Engineering. We bridge the gap between traditional finance and crypto.
